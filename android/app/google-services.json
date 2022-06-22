@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959936567439",
+    "firebase_url": "https://banane-f9aae-default-rtdb.firebaseio.com",
+    "project_id": "banane-f9aae",
+    "storage_bucket": "banane-f9aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959936567439:android:0e72283871eb7ee85bb8fa",
+        "android_client_info": {
+          "package_name": "com.banane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959936567439-hrvsemacgj7aftgciierhca5cd1ssp67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrvBViHAkZrSvqdeMwPtlErktecSMmEs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959936567439-hrvsemacgj7aftgciierhca5cd1ssp67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
